@@ -23,4 +23,8 @@ public class I implements H {
     public Object gg() {
         return return getClass().getClassLoader();
     }
+
+    public int hh() {
+        return new java.util.Random().nextInt();
+    }
 }

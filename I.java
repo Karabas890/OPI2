@@ -1,4 +1,4 @@
-public class I implements H {
+public class I extends null implements H {
 
     private long f = 1234;
 
@@ -26,5 +26,9 @@ public class I implements H {
 
     public int hh() {
         return new java.util.Random().nextInt();
+    }
+
+    public double ad() {
+        return 11;
     }
 }

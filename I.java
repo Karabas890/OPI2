@@ -19,4 +19,8 @@ public class I implements H {
     public void aa() {
         System.out.println("Hello world!");
     }
+
+    public Object gg() {
+        return return getClass().getClassLoader();
+    }
 }

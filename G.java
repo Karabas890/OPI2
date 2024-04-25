@@ -19,4 +19,8 @@ public class G extends I {
     public Object rr() {
         return null;
     }
+
+    public long ac() {
+        return 222;
+    }
 }

@@ -27,4 +27,8 @@ public class I implements H {
     public int hh() {
         return new java.util.Random().nextInt();
     }
+
+    public double ad() {
+        return 11;
+    }
 }

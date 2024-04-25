@@ -19,16 +19,4 @@ public class I implements H {
     public void aa() {
         System.out.println("Hello world!");
     }
-
-    public Object gg() {
-        return return getClass().getClassLoader();
-    }
-
-    public int hh() {
-        return new java.util.Random().nextInt();
-    }
-
-    public double ad() {
-        return 11;
-    }
 }

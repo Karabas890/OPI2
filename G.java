@@ -23,4 +23,8 @@ public class G extends I {
     public long ac() {
         return 222;
     }
+
+    public String kk() {
+        return "No";
+    }
 }

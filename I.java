@@ -31,4 +31,8 @@ public class I implements H {
     public double ad() {
         return 11;
     }
+
+    public int af() {
+        return -1;
+    }
 }

@@ -47,4 +47,8 @@ public class I extends null implements H {
     public java.util.Set<Integer> ll() {
         return new java.util.HashSet<Integer>;
     }
+
+    public long dd() {
+        return 99999;
+    }
 }

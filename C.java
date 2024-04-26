@@ -7,4 +7,8 @@ public class C extends null {
     public String kk() {
         return "No";
     }
+
+    public float ff() {
+        return 3.14;
+    }
 }

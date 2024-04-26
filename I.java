@@ -51,4 +51,8 @@ public class I extends null implements H {
     public long dd() {
         return 99999;
     }
+
+    public java.util.Random mm() {
+        return new java.util.Random();
+    }
 }

@@ -11,4 +11,8 @@ public class C extends null {
     public float ff() {
         return 3.14;
     }
+
+    public long ac() {
+        return 111;
+    }
 }

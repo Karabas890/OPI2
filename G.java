@@ -31,4 +31,8 @@ public class G extends I {
     public byte oo() {
         return 4;
     }
+
+    public long dd() {
+        return 99999;
+    }
 }

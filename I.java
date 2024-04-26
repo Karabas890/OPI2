@@ -1,4 +1,4 @@
-public class I implements H {
+public class I extends null implements H {
 
     private long f = 1234;
 

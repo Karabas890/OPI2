@@ -12,12 +12,12 @@ public class G extends I {
         return new java.util.Random();
     }
 
-    public int hh() {
-        return new java.util.Random(10).nextInt(10);
-    }
-
     public Object rr() {
         return null;
+    }
+
+    public int hh() {
+        return new java.util.Random(10).nextInt(10);
     }
 
     public long ac() {
@@ -26,5 +26,9 @@ public class G extends I {
 
     public String kk() {
         return "No";
+    }
+
+    public byte oo() {
+        return 4;
     }
 }

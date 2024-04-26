@@ -20,6 +20,10 @@ public class I extends null implements H {
         System.out.println("Hello world!");
     }
 
+    public double ad() {
+        return 11;
+    }
+
     public Object gg() {
         return return getClass().getClassLoader();
     }
@@ -28,11 +32,15 @@ public class I extends null implements H {
         return new java.util.Random().nextInt();
     }
 
-    public double ad() {
-        return 11;
-    }
-
     public int af() {
         return -1;
+    }
+
+    public int cc() {
+        return 13;
+    }
+
+    public String nn() {
+        "".>+.+++++++..+++.>++.<<+++++++++++++++.>.+++.;
     }
 }
